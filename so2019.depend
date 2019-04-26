@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1553208915 source:/home/jacek15157/Desktop/so2019/main.cpp
+	<ncurses.h>
+	<thread>
+	<Ball.h>
+	<unistd.h>
+	<vector>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1553208757 /home/jacek15157/Desktop/so2019/include/Ball.h
+	<thread>
+
+1553208757 source:/home/jacek15157/Desktop/so2019/src/Ball.cpp
+	"Ball.h"
+	<thread>
+	<unistd.h>
+	<ncurses.h>
+
+1556295898 source:/home/jacek15157/Desktop/so2019/FirstProject/src/Ball.cpp
+	"Ball.h"
+	<thread>
+	<unistd.h>
+	<mutex>
+	<ncurses.h>
+	<condition_variable>
+
+1556295815 /home/jacek15157/Desktop/so2019/FirstProject/include/Ball.h
+	<thread>
+
+1556297075 source:/home/jacek15157/Desktop/so2019/FirstProject/main.cpp
+	<ncurses.h>
+	<thread>
+	<Ball.h>
+	<unistd.h>
+	<vector>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1556284743 /home/jacek15157/Desktop/so2019/FirstProject/include/Platform.h
+	<string>
+	"Ball.h"
+	<string>
+	<thread>
+	<unistd.h>
+
+1556284785 source:/home/jacek15157/Desktop/so2019/FirstProject/src/Platform.cpp
+	"Platform.h"
+	"Ball.h"
+	<string>
+	<thread>
+	<unistd.h>
+	<mutex>
+
+1556297198 source:/home/jacek15157/Desktop/so2019/SecondProject/main.cpp
+	<ncurses.h>
+	<thread>
+	<Ball.h>
+	<unistd.h>
+	<vector>
+	<cstdlib>
+	<string>
+	<iostream>
+
+1556295815 /home/jacek15157/Desktop/so2019/SecondProject/include/Ball.h
+	<thread>
+
+1556295898 source:/home/jacek15157/Desktop/so2019/SecondProject/src/Ball.cpp
+	"Ball.h"
+	<thread>
+	<unistd.h>
+	<mutex>
+	<ncurses.h>
+	<condition_variable>
+
